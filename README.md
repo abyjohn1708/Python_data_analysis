@@ -1,4 +1,4 @@
-# Python_data_analysis
+# Data_analysis on Covid_19
 COVID-19 Data Analysis Report
 This repository contains an analysis of COVID-19 data sourced from the worldometer_data.csv dataset. The analysis was conducted using Jupyter Notebook with Python, and the findings are presented below.
 
